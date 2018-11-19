@@ -8,12 +8,13 @@ simple develop
 simple change
 simple give you
 Install
-
-install dependencies
 ====
+install dependencies
+-------
 yarn install
 or
 npm install
+
 Run
 ====
 Development

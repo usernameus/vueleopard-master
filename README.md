@@ -1,6 +1,6 @@
 # vueleopard-master
-vue+iview+vue-router+vuex+axios
 ===
+vue+iview+vue-router+vuex+axios
 Introduction
 ===
 a simple 'vue iview webpack' admin template

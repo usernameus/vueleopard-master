@@ -21,9 +21,9 @@ Run
 ====
 Development
 -------
-npm run dev
-Production(Build) ,and access:http://localhost:8000
-npm run build
+npm run dev<br>  
+Production(Build) ,and access:http://localhost:8000<br>  
+npm run build<br>  
 build nginx configuration ,and access: http://127.0.0.1
 ![项目图片1](https://github.com/usernameus/Data_C/blob/master/pic1.png)
 ![项目图片](https://github.com/usernameus/Data_C/blob/master/pic2.png)

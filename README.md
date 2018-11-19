@@ -22,8 +22,7 @@ Run
 Development
 -------
 npm run dev
-Production(Build) ,and access:http://localhost:9528
--------
+Production(Build) ,and access:http://localhost:8000
 npm run build
 build nginx configuration ,and access: http://127.0.0.1
 ![项目图片1](https://github.com/usernameus/Data_C/blob/master/pic1.png)
